@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
+        <img src="[https://avatars0.githubusercontent.com/u/993323](https://www.movidelnor.gob.ec/webepm/uniportalepm/wp-content/uploads/2021/08/160caa72.png)" height="100px">
     </a>
     <h1 align="center">Sistema Estadístico SIGESMEP</h1>
     <br>
